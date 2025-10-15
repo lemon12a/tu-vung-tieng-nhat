@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "cc0aad7e5b00efec",
+    "type": "split",
+    "children": [
+      {
+        "id": "58107f246ca25560",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7cb12a6bdf5f70f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ngữ pháp/N3/soumatome/tuần 1/Vとく.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vとく"
+            }
+          },
+          {
+            "id": "aa895acb5e6d36cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mẫu/danh từ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "danh từ"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba5c635f35100488",
+    "type": "split",
+    "children": [
+      {
+        "id": "876ad9fb7616f095",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9fdd95bd7a6b441",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Trình duyệt tệp"
+            }
+          },
+          {
+            "id": "1f77d43acc7a2318",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Tìm kiếm"
+            }
+          },
+          {
+            "id": "a935f4a58fa3f742",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Đánh dấu"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 229.5086555480957
+  },
+  "right": {
+    "id": "43883cacabc70ebf",
+    "type": "split",
+    "children": [
+      {
+        "id": "bce146dbcca0c802",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34f8d7adde2f7f39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.Bộ thủ/5 nét/Huyền (玄).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Liên kết đến của Huyền (玄)"
+            }
+          },
+          {
+            "id": "3c7dc7eb5cc2a855",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1.Bộ thủ/17 nét/Dược (龠).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liên kết đi ra từ Dược (龠)"
+            }
+          },
+          {
+            "id": "3d66597a32c27ad3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "73217ad9bc9ef794",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Đề cương"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Mở bộ chuyển đổi nhanh": false,
+      "graph:Mở xem biểu đồ": false,
+      "canvas:Tạo bảng mới": false,
+      "daily-notes:Mở ghi chú hôm nay": false,
+      "templates:Chèn mẫu": false,
+      "command-palette:Mở khay lệnh": false
+    }
+  },
+  "active": "aa895acb5e6d36cc",
+  "lastOpenFiles": [
+    "japanese-vocabularies/danh từ 1.md",
+    "mẫu/danh từ.md",
+    "mẫu.rar",
+    "Ngữ pháp/N3/soumatome/tuần 1/Vないと／Ｖなくちゃ.md",
+    "Ngữ pháp/N3/soumatome/tuần 1/Vとく.md",
+    "Ngữ pháp/N3/soumatome/tuần 1/Vちゃう／Ｖじゃう.md",
+    "Ngữ pháp/N3/soumatome/tuần 1/Vさせて (lịch sự).md",
+    "Từ vựng/3.Danh từ/danh từ 1 1 1.md",
+    "Ngữ pháp/N3/soumatome/tuần 1/(Ｎに) Ｖれる.md",
+    "Ngữ pháp/N3/soumatome/tuần 1/Vれる.md",
+    "Chưa đặt tên.md",
+    "なければならない.md",
+    "Ngữ pháp/N3/soumatome/tuần 1",
+    "Thể bị động.md",
+    "Ngữ pháp/N3/～ような／ように.md",
+    "Ngữ pháp/N3/soumatome",
+    "Ngữ pháp/N3/～らしい.md",
+    "Ngữ pháp/N3/～みたいだ (3).md",
+    "Ngữ pháp/N3/～みたいだ (2).md",
+    "Ngữ pháp/N3/～みたいだ (1).md",
+    "Từ vựng/1.Bộ thủ/5 nét/Huyền (玄).md",
+    "Từ vựng/2.Hán tự/Xuyên (川）.md",
+    "Từ vựng/1.Bộ thủ/5 nét/Ngọc (玉).md",
+    "Ngữ pháp/N3/～ようになっている.md",
+    "Ngữ pháp/N3/～ことになっている.md",
+    "Chưa đặt tên 1.md",
+    "Ngữ pháp/N3/Chưa đặt tên.md",
+    "心.md",
+    "Từ vựng/1.Bộ thủ/4 nét/Tâm (心).md",
+    "Ngữ pháp/N3",
+    "Ngữ pháp",
+    "Từ vựng",
+    "mẫu",
+    "mẫu",
+    "Từ vựng/1.Bộ thủ/17 nét",
+    "Từ vựng/1.Bộ thủ/16 nét",
+    "Chưa đặt tên.canvas"
+  ]
+}

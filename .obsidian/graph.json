@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#từ-vựng/danh-từ ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#từ-vựng/động-từ ",
+      "color": {
+        "a": 1,
+        "rgb": 14855750
+      }
+    },
+    {
+      "query": "tag:#từ-vựng/tính-từ ",
+      "color": {
+        "a": 1,
+        "rgb": 15203153
+      }
+    },
+    {
+      "query": "tag:#hán-tự ",
+      "color": {
+        "a": 1,
+        "rgb": 12052151
+      }
+    },
+    {
+      "query": "path:\"Ngữ pháp\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#bộ-thủ ",
+      "color": {
+        "a": 1,
+        "rgb": 3881787
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.9208212411238,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": false,
+  "centerStrength": 0.798394566224143,
+  "repelStrength": 13.5967891324483,
+  "linkStrength": 1,
+  "linkDistance": 102,
+  "scale": 0.6120408862845086,
+  "close": false
+}

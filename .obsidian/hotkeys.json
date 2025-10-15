@@ -1,0 +1,51 @@
+{
+  "editor:insert-link": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "file-explorer:duplicate-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
+  ],
+  "workspace:close-others": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Delete"
+    }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "X"
+    }
+  ],
+  "file-explorer:new-file": [],
+  "file-explorer:new-file-in-current-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ]
+}
