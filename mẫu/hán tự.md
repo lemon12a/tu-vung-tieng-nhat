@@ -1,4 +1,4 @@
-**Loại từ:** #hán-tự
+**Loại từ:** hán tự
 
 **Bao gồm:** 
 
@@ -8,4 +8,11 @@
 
 **Nghĩa:** 
 
+---
+**Ngày tạo:** 
+**Ngày hoàn thiện:** 
+
+**Số lần đã bổ sung:** 
+**Lần cuối bổ sung:** 
+**Nội dung chỉnh sửa lần cuối:** 
 

@@ -1,4 +1,4 @@
-**Loại từ:** #từ-vựng/danh-từ 
+**Loại từ:** danh từ
 
 **Cách đọc:** 
 

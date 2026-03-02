@@ -1,4 +1,4 @@
-**Loại từ:** #từ-vựng/tính-từ
+**Loại từ:** tính từ
 
 **Cách đọc:** 
 
@@ -15,3 +15,11 @@
 - **Từ liên quan:** 
 
 - **Từ đồng âm:**
+
+---
+**Ngày tạo:** 
+**Ngày hoàn thiện:** 
+
+**Số lần đã bổ sung:** 
+**Lần cuối bổ sung:** 
+**Nội dung chỉnh sửa lần cuối:** 
